@@ -23,11 +23,20 @@ h1::before {
   h1 {
     position: relative;
     font-size: 5rem;
+    h1 {
+        position: relative;
+        font-size: 5rem;
+        text-align: center;
+        background-color: rgb(116, 94, 67);
+        color: rgb(96, 131, 92);
+        text-shadow: 2px 2px #cfe9d7 ;
+      }
   }
   
   html {
     block-size: 100%;
     inline-size: 100%;
+    background-color: rgb(224, 206, 183);
   }
   
   body {

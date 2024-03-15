@@ -33,7 +33,7 @@ h1::before {
     inline-size: 100%;
     background-color: rgb(224, 206, 183);
     text-align: center;
-    padding-left: 5em;
+    
   }
   
   body {
@@ -44,7 +44,7 @@ h1::before {
     display: grid;
     place-content: center;
     font-family: system-ui, sans-serif;
-    padding-left: 5em;
+    
   }
   
   @media (orientation: horizontal) {

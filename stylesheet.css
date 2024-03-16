@@ -26,14 +26,13 @@ h1::before {
     text-align: center;
     color: rgb(96, 131, 92);
     text-shadow: 2px 2px #cfe9d7 ;
+    
   }
   
   html {
     block-size: 100%;
     inline-size: 100%;
     background-color: rgb(224, 206, 183);
-    text-align: center;
-    
   }
   
   body {
@@ -44,7 +43,6 @@ h1::before {
     display: grid;
     place-content: center;
     font-family: system-ui, sans-serif;
-    
   }
   
   @media (orientation: horizontal) {
@@ -52,3 +50,28 @@ h1::before {
       grid-auto-flow: column;
     }
   }
+  
+   .box {
+      border-radius: 10px;
+      box-shadow: 0 10px 10px rgba(216, 187, 144);
+    }
+    
+    h2 {
+      font-size: 20px;
+    }
+    
+    ul {
+      list-style-type: none;
+      border-radius: 10px;
+      box-shadow: 0 10px 10px rgba(216, 187, 144, 0.856);
+    }
+    
+    li {
+      font-size: 16px;
+      margin-bottom: 5px;
+    }
+    p {
+      border-radius: 10px;
+      box-shadow: 0 10px 10px rgba(216, 187, 144, 0.856);
+      margin-bottom: 5px;
+    }

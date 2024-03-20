@@ -55,17 +55,32 @@ body {
   }
   
   h2 {
+    
     text-align: center;
     font-size: 350%;
     color: rgb(216, 187, 144);
     text-shadow: 1px 1px #cfe9d7 ;
-    border-radius: 10px;
+    border-radius: 0px;
+    background-color: antiquewhite;
    
   }
+  h3 {
+    
+    text-align: center;
+    font-size: 350%;
+    color: rgb(96, 131, 92);
+    text-shadow: 4px 4px #cfe9d7 ;
+    border-radius: 0px;
+    
+   
+  }
+
+  
   
   ul {
     list-style-type: none;
-    border-radius: 10px;
+    border-radius: 0px;
+    background-color: antiquewhite;
     
   }
   
@@ -74,19 +89,24 @@ body {
     font-size: 150%;
     color: rgb(216, 187, 144);
     text-shadow: 1px 1px #cfe9d7 ;
-    border-radius: 10px;
-    
+    border-radius: 0px;
+    background-color: antiquewhite;
+    padding:  2%;
   }
   p {
     text-align: center;
     font-size: 150%;
     color: rgb(216, 187, 144);
     text-shadow: 1px 1px #cfe9d7 ;
-    border-radius: 10px;
+    border-radius: 0px;
+    background-color: antiquewhite;
+    padding:  2%;
     
   }
 
-  div1 {
+
+
+div1 {
     display: inline-block;
     margin-left: 9%;
   }

@@ -168,7 +168,7 @@ div1 {
   border-radius: 5px;
 }
 .parallax{
-  background: url('GreenBackground.jpg') fixed 100%;
+  background: url('GreenBackground.jpg') fixed 200%;
 }
 .parallax-inner{
   padding-top: 5%;

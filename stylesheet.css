@@ -32,7 +32,7 @@ h1 {
 html {
   block-size: 100%;
   inline-size: 100%;
-  background-color: rgb(224, 206, 183);
+  background-color: antiquewhite;
 }
 
 body {
@@ -58,10 +58,11 @@ body {
     
     text-align: center;
     font-size: 350%;
-    color: rgb(216, 187, 144);
-    text-shadow: 1px 1px #cfe9d7 ;
+    color: rgb(96, 131, 92);
+    text-shadow: 4px 4px #cfe9d7 ;
     border-radius: 0px;
     background-color: antiquewhite;
+    padding-bottom: 1%;
    
   }
   h3 {
@@ -87,7 +88,7 @@ body {
   li {
     text-align: center;
     font-size: 150%;
-    color: rgb(216, 187, 144);
+    color: rgb(167, 145, 114);
     text-shadow: 1px 1px #cfe9d7 ;
     border-radius: 0px;
     background-color: antiquewhite;
@@ -96,7 +97,7 @@ body {
   p {
     text-align: center;
     font-size: 150%;
-    color: rgb(216, 187, 144);
+    color: rgb(167, 145, 114);
     text-shadow: 1px 1px #cfe9d7 ;
     border-radius: 0px;
     background-color: antiquewhite;
